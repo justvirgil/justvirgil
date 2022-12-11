@@ -1,8 +1,8 @@
 <h1 align="center">Greetings 👋, my name is Virgil</h1>
 
-<div align="center">
-<img src="https://cdn.dribbble.com/users/314283/screenshots/1277779/untitled-1.gif" align="center" style="width: 100%" />
-</div>  
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/78993457/206909763-3edb9d6e-65d8-48f8-8982-938e27adf6af.jpg" width="100%" height="100%"/>
+</p>
 
 <h2 align="center">Software Developer
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' margin-left='15'>
@@ -10,7 +10,9 @@
 
 <p>&nbsp;&nbsp;&nbsp; I've been doing personal stuff and projects. I really enjoy making something out of codes such as websites, application forms, software testing codes, object-oriented programs, and more. </p>
 
-
+<div align="center">
+<img src="https://cdn.dribbble.com/users/314283/screenshots/1277779/untitled-1.gif" align="center" style="width: 100%" />
+</div>  
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=justvirgil&show_icons=true&count_private=true&hide_border=true&theme=omni" align="left" style="width: 40%" /></div>  
