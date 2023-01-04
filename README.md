@@ -15,17 +15,17 @@
 </div>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=justvirgil&show_icons=true&count_private=true&hide_border=true&theme=omni" align="left" style="width: 40%" /></div>  
 
+<img alt="GitHub Profile Stat 1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justvirgil&layout=compact&langs_count=8&theme=omni" align="center" style="width: 40%" />
 
+<img alt="GitHub Profile Stat 2" src="https://github-readme-stats.vercel.app/api?username=justvirgil&hide=contribs,prs&count_private=true&theme=omni" align="center" style="width: 50%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justvirgil&hide_border=true&layout=compact&theme=omni" align="center" style="width: 40%" />  
 
 
 
 ### My Skill Set:  
 <div align="center">  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>   
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
